@@ -10,7 +10,7 @@ import './App.css'; // Estilos globais
 
 function App() {
   return (
-    <Router>
+    <Router basename="/poupanca-verde-site">
       <Header />
       <main>
         <Routes>
